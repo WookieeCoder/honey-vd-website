@@ -22,7 +22,7 @@ I started high school in 2017 at W.H. De Klerk school in Witbank and left school
 ## Actions Configurations
 [[params.actions]]
   name = "Download My Cv"
-  url = "https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf"
+  url = "https://github.com/WookieeCoder/honey-vd-website/raw/main/Chanten%C3%A9-Oosthuizen.pdf"
 [[params.actions]]
   name = "Whatsapp Me"
   url = "https://wa.me/27749238768"
