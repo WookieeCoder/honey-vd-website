@@ -1,0 +1,37 @@
+theme = "awesome-identity"
+baseURL = "https://example.com"
+title = "chantené oosthuizen · résumé"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/images.jpeg"
+  firstname = "Chantené"
+  lastname = "Oosthuizen"
+  title = "Freelancing & Volunteering"
+  bio = """
+I started high school in 2017 at W.H. De Klerk school in Witbank and left school in early 2022. I followed an early childhood development curriculum. I was selected several times as one of the top 10 best performing students in my grade in 2018, 2019, 2020 and 2021. I was also a prestige learner achieving all my subjects above 80%. I am a very honest person and will do my best to lift the image of the company. If I’m struggling with something I won’t give up till I know I can do it, I’m not a lazy person. You can trust me and see for yourself.
+  """
+## Contacts Configurations
+[params.contacts]
+  email = "honey.v.d.merwe@gmail.com"
+  twitter = "VdmHoney"
+  mobile = "27749238768"
+  whatsapp = "27749238768"
+
+## Actions Configurations
+[[params.actions]]
+  name = "Download My Cv"
+  url = "https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf"
+[[params.actions]]
+  name = "Whatsapp Me"
+  url = "https://wa.me/27749238768"
+[[params.actions]]
+  name = "Buy Me a Coffee"
+  url = "https://www.buymeacoffee.com/honeyvdm"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2022 Chantené Ooosthuizen. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
